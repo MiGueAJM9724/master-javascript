@@ -1,3 +1,12 @@
+'use strict'
+
+nombre = 'Miguel';
+/*
+    Sin el modo strict me dejaria sin ningun problema
+    declarar la variable nombre.
+*/
+
+
 //  Variables = Contenedor de información
 
 var pais = "México";
