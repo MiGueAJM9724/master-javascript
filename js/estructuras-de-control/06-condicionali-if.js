@@ -62,4 +62,6 @@ if(year >= 2000 && year <= 2021 && year !=2018){
 // OR
 if(year == 2011 || year == 2021){
     console.log("El año acaba en 1");
+}else{
+    console.log("Año no registrado");
 }
